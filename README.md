@@ -1,0 +1,2 @@
+# codeqr
+QR SCANNER
